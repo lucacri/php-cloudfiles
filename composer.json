@@ -4,6 +4,7 @@
     "description": "PHP language bindings for Cloud Files API",
     "keywords": ["Rackspace", "Cloud Files", "RSCF", "PHP"],
     "homepage": "https://github.com/rackspace/php-cloudfiles",
+    "version": "2.0",
     "authors": [
         {
             "name": "Rackspace",
@@ -22,5 +23,6 @@
     },
     "autoload": {
         "files": ["cloudfiles.php"]
-    }
+    },
+    "minimum-stability": "dev"
 }
